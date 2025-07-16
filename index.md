@@ -12,5 +12,7 @@ Welcome to my personal website. I'm a Data Engineer passionate about building da
 - 📄 [View my resume](resume.md)  
 - ✍️ [Read my blog](blog.md)
 - [Projects](Projects.md)
+- (labs.md)
+  
 
 Feel free to explore!
